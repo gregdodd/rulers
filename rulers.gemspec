@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "A Rack based web framework."
   spec.description = "A simple Rack based web framework a la Rails."
-  spec.homepage = ""
+  spec.homepage = "https://github.com/gregdodd/rulers"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["allowed_push_host"] = "https://github.com/gregdodd/rulers"
